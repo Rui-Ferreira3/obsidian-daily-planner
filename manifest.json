@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-daily-planner",
+	"name": "Daily Planner",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin that helps you plan you day.",
+	"author": "Rui",
+	"isDesktopOnly": false
+}
